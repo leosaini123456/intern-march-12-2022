@@ -1,0 +1,54 @@
+Setup for web development 
+1. chrome 
+2. visual studio
+    https://code.visualstudio.com/download
+
+
+
+HTML?
+Hypertext Markup Language
+
+    Hypertext : it's a special text by clicking on this special text we move on other website or move on other page in same website.
+
+    Markup : by using html tag we change the look of the content.
+
+
+Tag?
+    syntax:
+    
+    ex: <tag> Content  </tag>
+    
+    <tag> - open tag
+    </tag> - close tag
+
+
+Heading Tag?
+h1 - h6
+    <h1>Welcome To Latx</h1>
+    <h2>Welcome To Latx</h2>
+    <h3>Welcome To Latx</h3>
+    <h4>Welcome To Latx</h4>
+    <h5>Welcome To Latx</h5>
+    <h6>Welcome To Latx</h6>
+
+paragraph ?
+    tag used <p>
+    for dummy content use this website https://loremipsum.io/
+
+    ex: 
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+ 
+
+HTML Structure?
+
+to create this structure in visual studio use this short cut ( ! + tab )
+
+    <!DOCTYPE html>  --> say the browzer about the html versio we are using 
+    <html> --> root element
+        <head>  --> meta infromation about this particular page( ex : links, script )
+            <title>Latx Technologies</title> --> ( use once on a single page ) 
+        </head>
+        <body>  
+              // visual content
+        </body>
+    </html>

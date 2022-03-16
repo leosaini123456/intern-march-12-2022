@@ -1,0 +1,49 @@
+1. web development  = website + development 
+2. web developer
+
+website divided into two parts 
+1. frontend  ( Design + Animations )
+2. backend   ( Database )
+3. Full Stack web developer =  frontend + backend
+
+1. Frontend
+    1. HTML
+    2. CSS
+    3. BootStrap  -- framework for CSS
+        > First Project : Gaming Website ( Static Website )
+                            > layout + Responsiveness
+        > Second Project: Zomato
+    4. JavaScript -- 1 month ( Basic + Advance )
+        > Accordation
+        > Drum Kit
+        > Weather App
+        > Calculator
+        > Dark Mode Light Mode
+        > popup
+    5. React
+        > Zomoto 
+
+2. Backend
+    1. Node.js -- Server create 
+    2. Express.js -- Framework of Node.js
+    3. Database -- MongoDB
+      > Third Project -- Blogging Website
+      > Second Project  -- Update
+    
+duration : 3 month 
+Fees : 12,000
+
+before 1st class  500 rs 
+after 5days -- 3500
+after 20 days--4000
+after 1 month - 4000
+
+
+Certificate 
+1. Super Intern Certificate
+    > Zomato App 
+    > Each task complete on time
+    > Own Website
+
+
+
